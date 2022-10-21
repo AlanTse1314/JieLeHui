@@ -1049,7 +1049,7 @@ MAX极速汽车,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226683/1000010000
 珠江台,P2p://ns1.hellotvvod.com:9906/a93e742a98954773a2eba9983529700e
 
 
-［戏曲］,#genre#
+【戏曲频道】,#genre#
 CCTV-11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
 东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
 梨园频道,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
@@ -4090,7 +4090,7 @@ SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u
 动画杂烩297,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c438ef0a3cc492fa136ae39a4da941e/1200.m3u8
 
 
-【4K频道】,#genre#
+【4K 频道】,#genre#
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -5003,7 +5003,7 @@ Wang-我的女人 康熙大帝的传奇一生,http://txtest-xp2p.p2p.huya.com/sr
 【科幻Fans】精彩科幻影视，解说连连看,http://epg.112114.xyz/douyu/3508304
 最新奇幻电影解说-宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
 
-［美食］,#genre#
+【美      食】,#genre#
 中国美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
 中华美食,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8?shandd
@@ -5302,7 +5302,7 @@ EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-119
 倚天屠龙记】梁朝伟版张无忌『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
 难兄难弟-吴镇宇罗嘉良的兄弟情『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
 
-【体     育】,#genre#
+【体       育】,#genre#
 CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
@@ -5378,7 +5378,7 @@ SXBC体育休闲,http://111.20.33.70/PLTV/88888893/224/3221226363/index.m3u8
 虎牙斯克副舞台+[重播]决战时刻_2021_22...,http://111.62.156.15/tx.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.flv?wsSecret=808bc790a428bcc860dfcb4bd50ff8be&wsTime=6283a876&u=0&seqid=16527091105722740&ctype=tars_mp&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
 赵心童未来可期+2021/22赛季中国小将赵心童全...,http://111.62.156.15/tx.flv.huya.com/src/35184375097355-35184375097355-12921507894263808-2199063379048-10057-A-0-1.flv?wsSecret=202ee2982698956cacaf5f24ed3b7c65&wsTime=6283a889&u=0&seqid=16527091292118630&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
 
-【摔     角】,#genre#
+【摔       角】,#genre#
 SD,http://txtest-xp2p.p2p.huya.com/1099531728842-1099531728842-86333421084737536-2199063581140-10057-A-0-1.xs
 RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
 MASFIGHT世界大奖赛,http://111.62.156.15/tx.flv.huya.com/src/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.flv?wsSecret=e5abe49f1dffe5d3fb3ad1b80b6e621a&wsTime=6283a6cc&u=0&seqid=16527086849687740&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
@@ -6213,7 +6213,7 @@ T台可人儿 男女互抽巴掌，扇到头破血流体育,http://txtest-xp2p.p
 韩国太妍42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 韩国太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 
-【DJ歌曲】,#genre#
+【DJ  歌曲】,#genre#
 一夜火爆i网络DJ舞曲,https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
 2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
 2021年网络火爆伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
@@ -7229,7 +7229,7 @@ Jason Derulo - Breathing -[102M.mp4-1080P],https://15799848.s21v.faiusr.com/58/A
 布兰妮-Britney Spears-Criminal-[127M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg79ys4gUoovb4mAQ.mp4
 欧美空灵抒情ＭＶ－Arash feat. Helena - Broken Angel－[98M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj9ms4gUo9taBtAU.mp4
 
-【DJ舞曲】,#genre#
+【DJ  舞曲】,#genre#
 无味,https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
 唱着情歌流着泪,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
 爱情迷了路,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
