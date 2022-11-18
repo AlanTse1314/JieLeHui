@@ -9023,35 +9023,20 @@ VIP秒播2_666,#genre#
 
 VIP直播1_666,#genre#
 
-彩虹e台,mitv://ns1.hellotvvod.com:9906/fa7914f003954bbea6fb197c9cd57824
-彩虹电影台,mitv://ns1.hellotvvod.com:9906/1e28628f429447fb8617c162d4ffdb19
-LOOK TV,mitv://ns1.hellotvvod.com:9906/88fa25183c9b47d6920987954fbfdcfb
-潘朵啦玩美台,mitv://ns1.hellotvvod.com:9906/84b7352bfe9c41a2b5f8bd6e13c31000
-惊艳成人电影台,mitv://ns1.hellotvvod.com:9906/a65bcc137a76418b9f2ef842e6b8ea44
-松视1台,mitv://ns1.hellotvvod.com:9906/91faa433a9544c8785cd215a2ad6fcda
-松视2台,mitv://ns1.hellotvvod.com:9906/80a9c735329544c9ab7fa3e2425f86cd
-PLAYBOY,mitv://ns1.hellotvvod.com:9906/d97f4ae150ba4c6792171c088d1c033f
-香蕉台,mitv://ns1.hellotvvod.com:9906/40968f1afa564083ba7670ec10aabe1a
-松视3台,mitv://ns1.hellotvvod.com:9906/e67a4e22ee4c496282298f612f200fe5
-JStar极限台,mitv://ns1.hellotvvod.com:9906/331c31537de3490cb0dfebcf5b58ac14
-HAPPY,mitv://ns1.hellotvvod.com:9906/634f970f0002bd9d50ba50ab13577c0f
-K,mitv://ns1.hellotvvod.com:9906/302db2d2f4c5487bba0c509275e6378e
 
-
-
-彩虹e台,P2p://ns1.hellotvvod.com:9906/5c95af2725634579b188dbdab64a5527
-彩虹電影台,P2p://ns1.hellotvvod.com:9906/ee5fcef5ca86461587ec2b5c520df9c5
-LOOK TV,P2p://ns1.hellotvvod.com:9906/d0a4995cb9954b0d83e7d70815045509
-潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/9e07d4f2197a45e8a650a659e106ede7
-驚豔成人電影台,P2p://ns1.hellotvvod.com:9906/a360cae4aeba4053a0ba0d55955ee1e5
-松視1台,P2p://ns1.hellotvvod.com:9906/3166a549fbda49d89dd8c403f84a3479
-松視2台,P2p://ns1.hellotvvod.com:9906/b5aeef5516ab440ba1dcfa15456ad152
-PLAYBOY,P2p://ns1.hellotvvod.com:9906/fb6d69faa9ee482cb2525df9efd36f68
-香蕉台,P2p://ns1.hellotvvod.com:9906/4fcf89da320743f7893302dce16c5b5d
-松視3台,P2p://ns1.hellotvvod.com:9906/72445d59b8af44f2b7410c9feda9b819
-JStar極限台,P2p://ns1.hellotvvod.com:9906/54397426fc2743918d6828f45fff3cce
-HAPPY,P2p://ns1.hellotvvod.com:9906/165d6283cc1e4c919853a90e507a564f
-K,P2p://ns1.hellotvvod.com:9906/31e2eeb87a3946efa30107e79c9f3745
+彩虹e台,P2p://ns1.hellotvvod.com:9906/289430628ca24195ba1891da28ab7387
+彩虹电影台,P2p://ns1.hellotvvod.com:9906/567e485e19cb433ba2e42e72c6a225be
+LOOK TV,P2p://ns1.hellotvvod.com:9906/7604c518725a44b6a7e59a5a1e72d221
+潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/91b43d8a03bc434ba4916df803126ef3
+惊艳成人电影台,P2p://ns1.hellotvvod.com:9906/500d9eb355f1428d92c965f3ec6af26f
+松视1台,P2p://ns1.hellotvvod.com:9906/211c143883264052ae33328198452b93
+松视2台,P2p://ns1.hellotvvod.com:9906/a7012eaf2c8543598ae907bee31fbcb1
+PLAYBOY,P2p://ns1.hellotvvod.com:9906/bc147b4dad324481bffe9d24fe9805cb
+香蕉台,P2p://ns1.hellotvvod.com:9906/8e16cf2d75aa41a898ae4f5fc15c65ec
+松视3台,P2p://ns1.hellotvvod.com:9906/3137983df5b34f8ebc3d6b398832bac0
+JStar极限台,P2p://ns1.hellotvvod.com:9906/e9017e5869ea4b7a955bfbcbe9c49954
+HAPPY,P2p://ns1.hellotvvod.com:9906/9f5e5c5c869842698e7ea7296ccac87d
+K,P2p://ns1.hellotvvod.com:9906/167e886a75fa4f2fa0c301be62786d66
 
 JD_014_舔狗的逆袭人气高冷女神_妲己 -时长:34:08,https://ss.rongliren.com/api/video/m3u8?id=12865&admin=1
 JD_102_波霸总监是我妹 -时长:50:59,https://ss.rongliren.com/api/video/m3u8?id=12809&admin=1
