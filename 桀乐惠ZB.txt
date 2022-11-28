@@ -99,7 +99,31 @@ CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3
 CCTV16,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/index.m3u8?fmt=ts2hls
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 
-
+【学生课堂】,#genre#
+空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
+空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
+空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
+空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
+空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
+空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
+空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
+空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
+二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
+三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
+四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
+五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
+六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
+初一,http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
+初二,http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
+初三,http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 
 【央视频道】,#genre#
@@ -442,8 +466,7 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 
 
 
-
-【NewTV】,#genre#
+【🎞️NewTV】,#genre#
 黑莓电影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
 NewTV超级电视剧,http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
 NewTV超级电影,http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
@@ -460,6 +483,139 @@ NewTV魅力潇湘,http://39.135.7.4:6610/000000001000/1000000001000006197/index.
 NewTV明星大片,http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
 NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 
+NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+NewTV潮妈辣婆,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
+NewTV潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+NewTV潮妈辣婆,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
+NewTV潮妈辣婆,http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
+NewTV爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
+NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+NewTV爱情喜剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
+NewTV古装剧场,http://111.40.196.36/PLTV/88888888/224/3221225618/index.m3u8
+NewTV古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
+NewTV古装剧场,http://39.134.65.166/PLTV/88888888/224/3221225524/1.m3u8
+NewTV古装剧场,http://39.134.65.164/PLTV/88888888/224/3221225524/1.m3u8
+NewTV古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
+NewTV动作电影,http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
+NewTV动作电影,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+NewTV动作电影,http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
+NewTV动作电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
+NewTV动作电影,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
+NewTV军旅剧场,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
+NewTV军旅剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
+NewTV军旅剧场,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
+NewTV军旅剧场,http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
+NewTV军旅剧场,http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8
+NewTV军旅剧场,http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
+NewTV军旅剧场,http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
+NewTV军旅剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
+NewTV精品纪录,http://111.40.196.28/PLTV/88888888/224/3221225630/index.m3u8
+NewTV精品纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
+NewTV精品纪录,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+NewTV精品纪录,http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
+NewTV精品纪录,http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
+NewTV精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
+NewTV精品体育,http://39.134.65.166/PLTV/88888888/224/3221225547/1.m3u8
+NewTV军事评论,http://111.40.196.39/PLTV/88888888/224/3221225634/index.m3u8
+NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
+NewTV军事评论,http://39.134.65.166/PLTV/88888888/224/3221225535/1.m3u8
+NewTV军事评论,http://39.134.65.164/PLTV/88888888/224/3221225535/1.m3u8
+NewTV军事评论,http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
+NewTV惊悚悬疑,http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
+NewTV惊悚悬疑,http://39.134.65.166/PLTV/88888888/224/3221225525/1.m3u8
+NewTV惊悚悬疑,http://39.134.65.173/PLTV/88888888/224/3221225525/1.m3u8
+NewTV惊悚悬疑,http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
+NewTV惊悚悬疑,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
+NewTV惊悚悬疑,http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
+NewTV家庭剧场,http://111.40.196.39/PLTV/88888888/224/3221225626/index.m3u8
+NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+NewTV家庭剧场,http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
+NewTV家庭剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225670/index.m3u8
+NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+NewTV农业致富,http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
+NewTV农业致富,http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
+NewTV农业致富,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+NewTV农业致富,http://39.134.65.164/PLTV/88888888/224/3221225604/1.m3u8
+NewTV农业致富,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
+NewTV武搏世界,http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
+NewTV武搏世界,http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
+NewTV武搏世界,http://39.134.65.164/PLTV/88888888/224/3221225552/1.m3u8
+NewTV武搏世界,http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
+NewTV武搏世界,http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
+NewTV武搏世界,http://39.134.65.164/PLTV/88888888/224/3221225553/1.m3u8
+NewTV中国功夫,http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
+NewTV中国功夫,http://39.134.65.164/PLTV/88888888/224/3221225679/1.m3u8
+NewTV中国功夫,http://39.134.65.173/PLTV/88888888/224/3221225679/1.m3u8
+NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+NewTV中国功夫,http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
+NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+NewTV超级电视剧,http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
+NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225710/index.m3u8
+NewTV超级电视剧,http://39.134.65.166/PLTV/88888888/224/3221225545/1.m3u8
+NewTV超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+NewTV超级电视剧,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+NewTV超级电视剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+NewTV超级电视剧,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+NewTV超级体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
+NewTV超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+NewTV金牌综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+NewTV金牌综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
+NewTV金牌综艺,http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
+NewTV精品大剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
+NewTV精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+NewTV精品大剧,http://111.40.196.9/PLTV/88888888/224/3221225680/index.m3u8
+NewTV精品大剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
+NewTV精品大剧,http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
+NewTV精品大剧,http://39.134.65.164/PLTV/88888888/224/3221225542/1.m3u8
+NewTV精品大剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
+NewTV炫舞未来,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
+NewTV炫舞未来,http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
+NewTV炫舞未来,http://39.134.65.164/PLTV/88888888/224/3221225538/1.m3u8
+NewTV炫舞未来,http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
+NewTV精品综合,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+NewTV精品综合,http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
+NewTV精品综合,http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8
+NewTV精品综合,http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
+NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
+NewTV超级电影,http://39.134.65.166/PLTV/88888888/224/3221225536/1.m3u8
+NewTV超级电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
+NewTV超级综艺,http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
+NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级综艺,http://39.134.65.166/PLTV/88888888/224/3221225550/1.m3u8
+NewTV超级综艺,http://39.134.65.164/PLTV/88888888/224/3221225550/1.m3u8
+NewTV明星大片,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+NewTV明星大片,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+NewTV明星大片,http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
+NewTV明星大片,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+NewTV明星大片,http://39.134.65.179/PLTV/88888888/224/3221225682/1.m3u8
+NewTV明星大片,http://39.134.65.166/PLTV/88888888/224/3221225682/1.m3u8
+NewTV明星大片,http://39.134.65.173/PLTV/88888888/224/3221225682/1.m3u8
+NewTV明星大片,http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
+NewTV动画王国,http://39.134.65.179/PLTV/88888888/224/3221225637/1.m3u8
+NewTV动画王国,http://39.134.65.181/PLTV/88888888/224/3221225637/1.m3u8
+NewTV动画王国,http://39.134.65.173/PLTV/88888888/224/3221225637/1.m3u8
+NewTV动画王国,http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
+NewTV欢乐剧场,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+NewTV欢乐剧场,http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
+NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225711/index.m3u8
+NewTV欢乐剧场,http://39.134.65.179/PLTV/88888888/224/3221225525/1.m3u8
+NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+NewTV东北热剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+NewTV军事评论[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+NewTV家庭剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+NewTV欢乐剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+NewTV精品体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
+黑莓电竞[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 
 
 【🎞️IHOT】,#genre#
@@ -1820,31 +1976,7 @@ Hot亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/
 Hot风尚音乐,http://cache.ott.fifalive.itv.cmvideo.cn:80/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=no
 Hot精品剧场,http://cache.ott.fifalive.itv.cmvideo.cn:80/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=no
 
-【学生课堂】,#genre#
-空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
-空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
-空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
-空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
-空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
-空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
-空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
-空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
-空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
-二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
-三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
-四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
-五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
-六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
-初一,http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
-初二,http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
-初三,http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+
 
 【江苏频道】,#genre#
 江苏,http://39.135.32.24:6610/000000001000/1000000001000004684/1.m3u8?xtkg?zjiangsd
@@ -1987,140 +2119,7 @@ Hot精品剧场,http://cache.ott.fifalive.itv.cmvideo.cn:80/8230197131234717902/
 财富天下,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226350/1.m3u8?zjiangsd
 财富天下,http://39.134.19.135/PLTV/88888888/224/3221226007/1.m3u8?zjiangsd
 
-【NTV频道】,#genre#
-NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
-NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-NewTV潮妈辣婆,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
-NewTV潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-NewTV潮妈辣婆,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
-NewTV潮妈辣婆,http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
-NewTV爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
-NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-NewTV爱情喜剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
-NewTV古装剧场,http://111.40.196.36/PLTV/88888888/224/3221225618/index.m3u8
-NewTV古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
-NewTV古装剧场,http://39.134.65.166/PLTV/88888888/224/3221225524/1.m3u8
-NewTV古装剧场,http://39.134.65.164/PLTV/88888888/224/3221225524/1.m3u8
-NewTV古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
-NewTV动作电影,http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
-NewTV动作电影,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
-NewTV动作电影,http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
-NewTV动作电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-NewTV动作电影,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
-NewTV军旅剧场,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
-NewTV军旅剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
-NewTV军旅剧场,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
-NewTV军旅剧场,http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
-NewTV军旅剧场,http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8
-NewTV军旅剧场,http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
-NewTV军旅剧场,http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
-NewTV军旅剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
-NewTV精品纪录,http://111.40.196.28/PLTV/88888888/224/3221225630/index.m3u8
-NewTV精品纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
-NewTV精品纪录,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-NewTV精品纪录,http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
-NewTV精品纪录,http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
-NewTV精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
-NewTV精品体育,http://39.134.65.166/PLTV/88888888/224/3221225547/1.m3u8
-NewTV军事评论,http://111.40.196.39/PLTV/88888888/224/3221225634/index.m3u8
-NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
-NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
-NewTV军事评论,http://39.134.65.166/PLTV/88888888/224/3221225535/1.m3u8
-NewTV军事评论,http://39.134.65.164/PLTV/88888888/224/3221225535/1.m3u8
-NewTV军事评论,http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
-NewTV惊悚悬疑,http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
-NewTV惊悚悬疑,http://39.134.65.166/PLTV/88888888/224/3221225525/1.m3u8
-NewTV惊悚悬疑,http://39.134.65.173/PLTV/88888888/224/3221225525/1.m3u8
-NewTV惊悚悬疑,http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
-NewTV惊悚悬疑,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
-NewTV惊悚悬疑,http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
-NewTV家庭剧场,http://111.40.196.39/PLTV/88888888/224/3221225626/index.m3u8
-NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-NewTV家庭剧场,http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
-NewTV家庭剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225670/index.m3u8
-NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-NewTV农业致富,http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
-NewTV农业致富,http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
-NewTV农业致富,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-NewTV农业致富,http://39.134.65.164/PLTV/88888888/224/3221225604/1.m3u8
-NewTV农业致富,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
-NewTV武搏世界,http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
-NewTV武搏世界,http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
-NewTV武搏世界,http://39.134.65.164/PLTV/88888888/224/3221225552/1.m3u8
-NewTV武搏世界,http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
-NewTV武搏世界,http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
-NewTV武搏世界,http://39.134.65.164/PLTV/88888888/224/3221225553/1.m3u8
-NewTV中国功夫,http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
-NewTV中国功夫,http://39.134.65.164/PLTV/88888888/224/3221225679/1.m3u8
-NewTV中国功夫,http://39.134.65.173/PLTV/88888888/224/3221225679/1.m3u8
-NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-NewTV中国功夫,http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
-NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-NewTV超级电视剧,http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
-NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225710/index.m3u8
-NewTV超级电视剧,http://39.134.65.166/PLTV/88888888/224/3221225545/1.m3u8
-NewTV超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
-NewTV超级电视剧,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
-NewTV超级电视剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
-NewTV超级电视剧,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
-NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-NewTV超级体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
-NewTV超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
-NewTV金牌综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
-NewTV金牌综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
-NewTV金牌综艺,http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
-NewTV精品大剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
-NewTV精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-NewTV精品大剧,http://111.40.196.9/PLTV/88888888/224/3221225680/index.m3u8
-NewTV精品大剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
-NewTV精品大剧,http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
-NewTV精品大剧,http://39.134.65.164/PLTV/88888888/224/3221225542/1.m3u8
-NewTV精品大剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
-NewTV炫舞未来,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
-NewTV炫舞未来,http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
-NewTV炫舞未来,http://39.134.65.164/PLTV/88888888/224/3221225538/1.m3u8
-NewTV炫舞未来,http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
-NewTV精品综合,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-NewTV精品综合,http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
-NewTV精品综合,http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8
-NewTV精品综合,http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
-NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
-NewTV超级电影,http://39.134.65.166/PLTV/88888888/224/3221225536/1.m3u8
-NewTV超级电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
-NewTV超级综艺,http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
-NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
-NewTV超级综艺,http://39.134.65.166/PLTV/88888888/224/3221225550/1.m3u8
-NewTV超级综艺,http://39.134.65.164/PLTV/88888888/224/3221225550/1.m3u8
-NewTV明星大片,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-NewTV明星大片,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
-NewTV明星大片,http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
-NewTV明星大片,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
-NewTV明星大片,http://39.134.65.179/PLTV/88888888/224/3221225682/1.m3u8
-NewTV明星大片,http://39.134.65.166/PLTV/88888888/224/3221225682/1.m3u8
-NewTV明星大片,http://39.134.65.173/PLTV/88888888/224/3221225682/1.m3u8
-NewTV明星大片,http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
-NewTV动画王国,http://39.134.65.179/PLTV/88888888/224/3221225637/1.m3u8
-NewTV动画王国,http://39.134.65.181/PLTV/88888888/224/3221225637/1.m3u8
-NewTV动画王国,http://39.134.65.173/PLTV/88888888/224/3221225637/1.m3u8
-NewTV动画王国,http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
-NewTV欢乐剧场,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-NewTV欢乐剧场,http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
-NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225711/index.m3u8
-NewTV欢乐剧场,http://39.134.65.179/PLTV/88888888/224/3221225525/1.m3u8
-NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
-NewTV东北热剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-NewTV军事评论[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-NewTV家庭剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-NewTV欢乐剧场[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-NewTV精品体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
-黑莓电竞[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+
 
 
 
