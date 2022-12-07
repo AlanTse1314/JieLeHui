@@ -27,7 +27,6 @@
 {"key":"相声小品","name":"桀乐惠丨🅱️相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "演唱会","name": "桀乐惠丨🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bliyc.json"},
 {"key": "戏 曲" ,"name": "桀乐惠丨🅱️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
-{"key": "美 食" ,"name": "桀乐惠丨🅱️美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blims.json"},
 {"key":"csp_EEEDY","name":"❄3E飘花","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_兔小贝","name":"桀乐惠丨📚儿童启蒙","type":1,"api":"http://dr.饭太硬.ml/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},	
 {"key":"少儿教育","name":"桀乐惠丨📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/少儿教育.json"},
@@ -36,25 +35,14 @@
 {"key":"高中教育","name":"桀乐惠丨📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/高中课堂.json"},
 
 
-   {"key": "追剧喵","name": "🐞追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"}, 
     {"key":"csp_Kunyu77","name":"👒七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
 	{"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0","ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"},
 	{"key":"csp_XBPQ极品影视","name":"🎞️极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e6%9e%81%e5%93%81%e5%bd%b1%e8%a7%86.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xBPQ.jar"},
 	//{"key":"csp_293","name":"🌈宝盒4K专区","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/leevi/apps/raw/branch/main/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
 	{"key":"csp_biubiu_小强影院","name":"🎯宝盒影迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/3941/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json?sign=k_2eHVclgKbKUwDftUYaqOR8vQmSpX5dRrUIp551O-w%3D%3A0"},
 
-  {
-        "api":"https://www.ddzyz1.com/api.php/provide/vod/",
-        "key":"多多资源",
-        "name":"🍵多多资源(切)",
-        "quickSearch":1,
-        "searchable":1,
-        "type":1
-    }, 
+
  
-{"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/LIBVIO.json"},
-{"key":"csp_Jianying","name":"🎞️简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzk2MSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNVQwOTo1NjozOC41MzErMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE1VDA5OjU2OjM4LjUzMSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijg2NzMzNzkzNUBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiI2NWFlZDQ0My02ZmFhLTQyMTYtYTU2Mi04Y2YyZjlmZjk1ZGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzgxMTgwNCwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.t0xl2Grj9CzjcbzL7538Q0Kb7rDTvB90qz7A0I24KLs","jar":"http://刚刚.live/jar2/jar0901.jar"},
-{"key":"csp_biubiu_瓜皮TV","name":"🎯瓜皮TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/3982/%E7%93%9C%E7%9A%AETV.json?sign=fJ7wD2_TvXE0Mav6YOScPeYUf6sPBCy6BbQ5C2PQ-UA%3D%3A0"},
 {"key":"csp_Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/29963/box281.jar?sign=xx5cM6sdOlQIx7BcKyXo0nnj-ZrVehFpllWJC4L30xM%3D%3A0"},
 {"key":"csp_SP360","name":" 🌈桀乐惠丨娱乐","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/5660/360.jar?sign=UvvtkxrYYz1CQrSzwD98cpU4wQwTatQcDYOTRQ8x3wU%3D%3A0"},
 {"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59555/dmtv.jar?sign=-MqtqxB94n_EPkw1pV_VwzlIbT3CPYL5fc6Y2VxgLm0%3D%3A0"},
@@ -105,10 +93,8 @@
     },
 
 {"key": "Kuaikan","name": "桀乐惠丨快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Smdyy","name":"桀乐惠丨🦄电影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"mjxq_spider","name":"桀乐惠丨🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_biubiu_花猫TV","name":"桀乐惠丨花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2786/%E8%8A%B1%E7%8C%ABTV.json?sign=xpzYasgxjhsTBWyAKgqRpQhoodbKr5NslBiSSEBWplo%3D%3A0"},
-{"key":"csp_xp_bdys01","name":"桀乐惠丨💢哔滴影视(磁)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://share.nite07.com/api/v3/file/source/13353/bdys01.json?sign=dF12y_pwsjYQx69alWMQw0H7lxFLlct9zaLvvXEbBMs%3D%3A0"},
 
 {"key": "Bili","name": "桀乐惠丨🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/33110/%E5%93%94%E5%93%A9.json?sign=bfFrA3Ub4BqSYHavVzc5BVYQuvwuGROwx8QLWbKbb3A%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
 {"key": "演唱会","name": "桀乐惠丨🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
