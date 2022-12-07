@@ -23,6 +23,21 @@
 	     "searchable": 1,
 	     "jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"
     },
+    
+    
+    
+{
+"key": "学习乐园",
+"name": "▎网课学习  ▎",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://47.242.90.42:8888/down/57hcbq9cHTHH"
+},
+
+
 
 {"key":"相声小品","name":"桀乐惠丨🅱️相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "演唱会","name": "桀乐惠丨🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bliyc.json"},
