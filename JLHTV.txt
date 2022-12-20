@@ -738,6 +738,40 @@ NewTV精品体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 黑莓电竞[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 
+【🎞️3D影院】,#genre#
+3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
+3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
+3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
+3D5,https://vd2.bdstatic.com/mda-kkfx81ffgjvk2qja/v1-cae/sc/mda-kkfx81ffgjvk2qja.mp4
+大橘,https://vd4.bdstatic.com/mda-ma2gq0my4ar6a8dz/v1-cae/1080p/mda-ma2gq0my4ar6a8dz.mp4
+裸眼3D,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
+裸眼3D2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
+混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
+头号玩家,https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
+变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
+精美,https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
+变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
+Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
+玩家,https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
+钢铁侠,https://vd4.bdstatic.com/mda-narbupksqbu5yyiy/sc/cae_h264_nowatermark_delogo/1643187081773112317/mda-narbupksqbu5yyiy.mp4
+龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
+终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
+AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
+Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
+东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+大片3D,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
+小丑,https://vd2.bdstatic.com/mda-jkbrts1znp07ryb8/sc/mda-jkbrts1znp07ryb8.mp4
+X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
+长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
+司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
+星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
+MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+
+
+
 
 【🎞️IHOT】,#genre#
 爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
@@ -9451,6 +9485,73 @@ JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
 K,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
 LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 
+彩虹頻道,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+潘朵拉,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔台,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+松視1,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
+PLAYBOY,P2p://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
+香蕉台,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
+J Star,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
+HAPPY,P2p://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
+K,P2p://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
+虹頻道,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+潘朵拉,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔台,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+松視1,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
+三原穗花加藤绫野,https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
+春埼芽衣,https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
+笠木一香,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+hmn-019月野,https://t10.cdn2020.com:12335/video/m3u8/2021/07/27/e1fcaf6b/index.m3u8
+河原枫,https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
+stars-223小仓由菜,https://ckcdnz1.cdn2020.com/video/m3u8/2020/05/20/4eb5dd0d/index.m3u8
+stars-877小仓由菜,https://t11.cdn2020.com:12336/video/m3u8/2021/08/31/6c20405e/index.m3u8
+春埼芽衣,https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
+筱原友香,https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
+ipx-762西宫,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/9426795d/index.m3u8
+ssis-355星宫一花,https://t17.cdn2020.com:12341/video/m3u8/2022/04/03/1907602b/index.m3u8
+伊藤优希,https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
+waaa-077月野,https://t7.cdn2020.com/video/m3u8/2021/06/30/3b855a40/index.m3u8
+waaa-125月野,https://t13.cdn2020.com:12338/video/m3u8/2021/12/17/012d1b63/index.m3u8
+miae-021姫川,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/d0b97f6d/index.m3u8
+stars-355小仓由菜,https://t10.cdn2020.com:12335/video/m3u8/2021/07/24/4151e5f1/index.m3u8
+hmn-034月野,https://t10.cdn2020.com:12335/video/m3u8/2021/08/27/f41fb875/index.m3u8
+hmn-129月野,https://t16.cdn2020.com:12340/video/m3u8/2022/03/02/b12157dc/index.m3u8
+春埼芽衣,https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+cawd-319 芽衣,https://t13.cdn2020.com:12338/video/m3u8/2021/12/15/e1de7cf2/index.m3u8
+pppd-990月野,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/b5d81241/index.m3u8
+咲咲原凛星奈爱,https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+miaa-562月野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/6012e749/index.m3u8
+筱原友香,https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
+stars-258小仓由菜,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/232731d5/index.m3u8
+miaa-468辻,https://t10.cdn2020.com:12335/video/m3u8/2021/07/30/b302495a/index.m3u8
+hzgd-041佳苗,https://t6s.cdn2020.com/video/m3u8/2021/01/16/39898b9b/index.m3u8
+mdbk-223百永,https://t16.cdn2020.com:12340/video/m3u8/2022/03/05/4c9662d9/index.m3u8
+miad-736川村,https://t7.cdn2020.com/video/m3u8/2021/03/18/3d310719/index.m3u8
+rctd-418辻,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/af0cb0cf/index.m3u8
+sdnm-323叶月凉子,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/fc46b201/index.m3u8
+stars-496川村,https://t16.cdn2020.com:12340/video/m3u8/2022/02/25/669eed5/index.m3u8
+pppd-882川村晴,https://t5s.cdn2020.com/video/m3u8/2020/11/29/08d6c976/index.m3u8
+dv-1501爱咲,https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/fbbaa8ac/index.m3u8
+jul-430川村晴,https://t6s.cdn2020.com/video/m3u8/2021/02/03/80e0246d/index.m3u8
+gvg-039川村,https://t4s.cdn2020.com/video/m3u8/2020/08/16/156ebfc0/index.m3u8
+vrtm-457爱育,https://t7.cdn2020.com/video/m3u8/2021/04/08/88622f1a/index.m3u8
+dvdms-763百永,https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/6b7d52bd/index.m3u8
+mifd-133深沢,https://t5s.cdn2020.com/video/m3u8/2020/10/23/da6a0a2e/index.m3u8
+mdyd-913本庄优花,https://t16.cdn2020.com:12340/video/m3u8/2022/02/24/6fb6acba/index.m3u8
+vrtm-511永瀬,https://t5s.cdn2020.com/video/m3u8/2020/10/16/db15f88e/index.m3u8
+aarm-066治疗师,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
+jul-414深沢,https://t6s.cdn2020.com/video/m3u8/2021/01/09/fda02e53/index.m3u8
+shkd-959辻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/79da5eae/index.m3u8
+rbd-868本庄优花,https://t5s.cdn2020.com/video/m3u8/2020/11/24/1a297d76/index.m3u8
+sdde-438佳苗,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/59223c0c/index.m3u8
 
 
 
