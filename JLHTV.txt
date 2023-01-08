@@ -10223,7 +10223,7 @@ STAR,http://123.58.201.173:52411/test/lshotel.php?id=59
 东森电影台,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 
 
-👛付费频道1_168,#genre#
+👛付费频道1_666,#genre#
 彩虹e台,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影台,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
 K 頻道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
@@ -10267,7 +10267,7 @@ JStar極限台電影頻道,mitv://51.81.90.178:9906/1ff75bd38f6241d6a39cc0272a4a
 Hot,mitv://51.81.90.178:9906/bc89924c45ce47c8a6f1f9e8ba460d11
 Happy,mitv://51.81.90.178:9906/4f208bff963b442cafe9a71efc892105
 PLAYBOY,mitv://51.81.90.178:9906/8318778f77a1460797911ecacc214b92
-👛付费频道2_168,#genre#
+👛付费频道2_666,#genre#
 X王,p5p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb
 大學,p5p://fccs.123178.top:9906/6163d74a0002fd370d5efb0f7340eb24
 香草天道,p5p://fccs.123178.top:9906/6163cdac00048e5f0d396a46d031043b
@@ -10284,7 +10284,7 @@ PLAYBOY,p5p://fccs.123178.top:9906/6163d405000971b80d52372ed4201556
 VENUS,p5p://fccs.123178.top:9906/6163cf760007ae7a0d4068236afeb0c5
 X2,p5p://fccs.123178.top:9906/6163d1ed00023d170d4a0796df81c967
 彩虹通道,p5p://fccs.123178.top:9906/6163d3730009d54a0d4ffcf82e745ab5
-👛付费频道3_168,#genre#
+👛付费频道3_666,#genre#
 Cunnilingus,p5p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3
 Blonde,p5p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e
 Solo girl,p5p://crfccs.kingh888.com:16666/60ab7092000628430f7f721440747700
@@ -10315,7 +10315,7 @@ Milf,p5p://crfccs.kingh888.com:16666/60ab6f5300037e900f7a934df938ee61
 京采8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
 京采9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b
 京采10,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
-👛付费频道4_168,#genre#
+👛付费频道4_666,#genre#
 彩虹E台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
 彩虹电影,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
 Look TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
@@ -10395,7 +10395,7 @@ PsychopornTW,p3p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2
 欧美艺术,p3p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750
 果冻传媒,p3p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05
 
-👛频道台_168,#genre#
+👛频道台_666,#genre#
 松视1,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
 松视2,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
 松视3,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
