@@ -1,5 +1,6 @@
 {
 "Home": [
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
 {"key":"采集","title":"点播1","pic":"https://pic.imgdb.cn/item/63985335b1fccdcd3656fb90.png"},
 {"key":"APP","title":"点播2","pic":"https://pic.imgdb.cn/item/63985335b1fccdcd3656fba2.png"},
 {"key":"网页","title":"有声小说","pic":"https://pic.imgdb.cn/item/63984d60b1fccdcd364c6e57.png"},
