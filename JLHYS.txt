@@ -773,8 +773,6 @@
 			]
 		}
 	],
-//jar+壁纸
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 //广告过滤
 
