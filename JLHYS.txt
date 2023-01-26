@@ -628,12 +628,7 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
 //jar+壁纸
-
-"spider":"https://cn.kstore.space/download/3092/MaooXB/资源包.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9","wallpaper":"https://tool.weetai.cn/api",
-
-//电视直播
-
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFpCLnR4dA=="]}]}],
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 //解码模式
 
