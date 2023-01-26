@@ -65,16 +65,14 @@
 
 {"key":"csp_Dy1010","name":"❤️双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/panda.jar"},
 
-//xBPQ
 {"key":"csp_xBPQ_诺讯影视","name":"️🦐诺讯┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86(xBPQ).json"},
 
 {"key":"csp_xBPQ_石榴影视","name":"️💎石榴┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/%E7%9F%B3%E6%A6%B4%E7%94%B5%E5%BD%B1(xBPQ).json"},
 
 {"key":"csp_xBPQ_云播影视","name":"️🏖云播┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/TVB%E4%BA%91%E6%92%AD(xBPQ).json"},
 
-//{"key":"csp_555","name":"5️⃣️555┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/555%E7%94%B5%E5%BD%B1.json"},
+{"key":"csp_555","name":"5️⃣️555┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/555%E7%94%B5%E5%BD%B1.json"},
 
-//SP
 {"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
