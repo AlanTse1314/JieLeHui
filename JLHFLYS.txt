@@ -65,67 +65,6 @@
 
 {"key":"csp_Dy1010","name":"❤️双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/panda.jar"},
 
-{"key":"csp_xBPQ_诺讯影视","name":"️🦐诺讯┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86(xBPQ).json"},
-
-{"key":"csp_xBPQ_石榴影视","name":"️💎石榴┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/%E7%9F%B3%E6%A6%B4%E7%94%B5%E5%BD%B1(xBPQ).json"},
-
-{"key":"csp_xBPQ_云播影视","name":"️🏖云播┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/TVB%E4%BA%91%E6%92%AD(xBPQ).json"},
-
-{"key":"csp_555","name":"5️⃣️555┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/555%E7%94%B5%E5%BD%B1.json"},
-
-{"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-{"key":"csp_Auete","name":"🏝Aue┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_DiDuan" ,"name":"⏮️低端┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-
-{"key":"Yanet","name":"🦆鸭奈飞┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
-
-{"key": "Yanet","name": "🦆鸭奈飞┃SP","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "a369b1f623fe86605f1b029f0cf66349","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"},
-
-{"key":"ai","name":"🐨爱奇┃官源","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-
-{"key":"teng","name":"🐧腾讯┃官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
-
-{"key":"csp_SP360","name":"📺360┃官源","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"MGT","name":"🍋芒果┃官源","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
-
-
-{"key": "csp_biubiu_voflix","name": "🌀voflix┃XB","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://w.g9.pub:66/381203888/XP/voflix.json"},
-
-{"key":"csp_XBiu口袋影院","name": "📩口袋┃XB","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
-
-{"key":"csp_XBiu胖虎影视","name": "🐯胖虎┃XB", "type": 3, "api": "csp_XBiu","ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"}, 
-
-{"key":"csp_XBiu达达龟","name": "🐢达达┃XB", "type": 3, "api": "csp_XBiu","ext":"https://www.dadagui.me/vodtype/{cateId}-{catePg}.html"},
-
-{"key":"csp_XBiuCOKEMV","name":"🍬COKE┃XB","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-
-{"key":"csp_XBiu233动漫","name": "🦁动漫┃XB","type": 3,"api": "csp_XBiu","ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
-
-
-{"key":"csp_If101","name":"🛫If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"哔滴影视","name":"哔滴影视┃爬虫","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"Bttoo","name":"Bttoo┃爬虫","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
-{"key":"农民","name":"农民┃爬虫","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json","jar":"http://52bsj.vip:81/api/v3/file/get/54873/srilqvg7_2.jar?sign=qHDDXoJQelzE9Ugwucy-Q6CGRgkxIMp3hqv95f-ruUI%3D%3A0"},
-
-{"key":"Auete","name":"Auete┃爬虫","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"在线之家","name":"在线之家┃爬虫","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"Dm84","name":"动漫巴士┃爬虫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"Anime1","name":"Anime1┃爬虫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"18","name":"🔞🈲分割线——————","type":0,"api":""},
