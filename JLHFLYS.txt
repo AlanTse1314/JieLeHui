@@ -57,14 +57,6 @@
 			"ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
 		},
 {"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/789kp.json"},
-{"key":"csp_Smdyy","name": "🐴神马丨影视","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-{"key":"csp_Lgyy","name":"🌀蓝光丨影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_fant","name":"🍙饭团丨影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
-{"key":"csp_Dy1010","name":"❤️双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/panda.jar"},
-
 
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"18","name":"🔞🈲分割线——————","type":0,"api":""},
