@@ -1,5 +1,6 @@
 🇨🇳[哓桀丨整理源],#genre#
 
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 吉祥直播台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$高清1080P
 吉祥直播台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 吉祥直播台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
@@ -112,7 +113,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
@@ -12585,3 +12585,4 @@ Dorcel TV FHD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/12120/index.m
 
 
 
+    
