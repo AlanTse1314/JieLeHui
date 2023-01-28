@@ -154,8 +154,7 @@
     }
 	
 	
-	
-],
+
 {"key": "Kuaikan","name": "桀乐惠丨快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Smdyy","name":"桀乐惠丨🦄电影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"mjxq_spider","name":"桀乐惠丨🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
