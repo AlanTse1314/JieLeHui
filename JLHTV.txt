@@ -3025,6 +3025,56 @@ Hot精品剧场,http://cache.ott.fifalive.itv.cmvideo.cn:80/8230197131234717902/
 
 
 
+成龙1,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
+成龙2,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+成龙3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
+古龙1,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
+古龙2,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+黄渤,http://bd.hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsSecret=3642eee1d7d7617ebc4775caa3fac2a9&wsTime=611e1942&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+金庸1,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+金庸2,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+杨幂,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+吴京,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+葛优,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+徐峥,http://bd.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8?wsSecret=9b47109fc0dfc3c4bd61bfe45f2a33c5&wsTime=611e195d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc2%3B&fs=bgct
+刘亦菲1,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
+刘亦菲2,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+李连杰,http://tv.rdys888.top/bak/proxy/youku.php?id=8021912
+李小龙,http://bd.hls.huya.com/huyalive/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsSecret=ed821304d90d641344832186ef0a7ede&wsTime=611e19e1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+林正英1,http://121.51.14.14/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+林正英2,https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv
+林正英3,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc//992495/live_22989278_9714011.m3u8
+林正英6,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+林正英7,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+林正英9,http://epg.112114.xyz/douyu/218859
+林正英10,http://epg.112114.xyz/douyu/7356023
+林正英11,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+林正英12,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+林正英13,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
+林正英14,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+林正英15,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
+林正英16,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+林正英17,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353507954
+
+梁朝伟,http://bd.hls.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.m3u8?wsSecret=6d27ee45570ce3fa2b48911dbd42acd4&wsTime=611e1956&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+孙红雷,http://bd.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8?wsSecret=71679eeb6dfa26cb05f659a21fa7104c&wsTime=611e19b4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Aq5%3B&fs=bgct
+吴孟达,http://bd.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsSecret=02902d61e79641c3b5636e26f5295d4a&wsTime=611e1816&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+吴彦祖,http://bd.hls.huya.com/huyalive/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsSecret=b400f80a52202fa0d8f48c3a2421e2b6&wsTime=611e177e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct
+甄子丹,http://bd.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8?wsSecret=42e711d6a5aaab05d03d30dc21c956ae&wsTime=611e1993&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+古天乐,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+郭富城,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+张国荣,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+周润发,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+周星驰1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
+周星驰2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=38670875
+周星驰3,http://epg.112114.xyz/douyu/3990812
+刘德华2,http://epg.112114.xyz/douyu/2516864
+刘德华3,http://epg.112114.xyz/douyu/8985415
+
+
+
+
+
 
 
 【虎牙轮播】,#genre#
@@ -4175,7 +4225,20 @@ K歌之王,https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1f56dde8-79e3-48f8-9aaf-2743
 广西桂剧《昭君出塞》,http://gcw.bdcdn.shoujiduoduo.com/v/181217/6433c40897781b50350c2f60f417ca5a.mp4
 
 
-
+【小仙女直播】‍,#genre#
+小姐姐轮播直播点击换,http://wmsp.cc/video.php
+抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
+花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
+6间房轮播直播点击切换,http://mmitv.top/test/6room.php?id=top
+千帆轮播直播点击切换,http://mmitv.top/test/qf56.php?id=top
+我秀轮播直播点击切换,http://mmitv.top/test/woxiu.php?id=top
+快手轮播直播点击切换,http://mmitv.top/test/ks.php
+网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
+芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8#http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
+橙子一台,https://ip3731198171.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/768410/live_1849890871_69368354.m3u8?
+橙子二台,https://ip3747975387.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/214875/live_457200741_74685781.m3u8
+橙子三台 ,https://ip3722557046.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/133179/live_1001126625_48904870.m3u8?
+橙子四台 ,https://ip3714420955.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/743745/live_1755442628_48682447.m3u8
 
 
 【摔       角】,#genre#
