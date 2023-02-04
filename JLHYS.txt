@@ -89,7 +89,7 @@
 {"key":"mtv_xp_爱港剧源","name":"切片┃爱港剧源","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/爱港剧源.json"},
 {"key":"mtv_pc_悟空影视","name":"切片┃悟空影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/悟空影视.json"},
 {"key":"mtv_zh_暖光影视","name":"综合┃暖光影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"mtv_zh_刺猬影视","name":"综合┃刺猬影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"}],
+{"key":"mtv_zh_刺猬影视","name":"综合┃刺猬影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"}
 
 
 		{
