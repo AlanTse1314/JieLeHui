@@ -1,5 +1,6 @@
 🇨🇳[哓桀丨整理源],#genre#
-
+美女轮播点击切换,http://wmsp.cc/video.php
+网络热歌点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 吉祥直播台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
@@ -3326,20 +3327,8 @@ K歌之王,https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1f56dde8-79e3-48f8-9aaf-2743
 广西桂剧《昭君出塞》,http://gcw.bdcdn.shoujiduoduo.com/v/181217/6433c40897781b50350c2f60f417ca5a.mp4
 
 
-【小仙女直播】‍,#genre#
-小姐姐轮播直播点击换,http://wmsp.cc/video.php
-抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
-花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
-6间房轮播直播点击切换,http://mmitv.top/test/6room.php?id=top
-千帆轮播直播点击切换,http://mmitv.top/test/qf56.php?id=top
-我秀轮播直播点击切换,http://mmitv.top/test/woxiu.php?id=top
-快手轮播直播点击切换,http://mmitv.top/test/ks.php
-网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
-芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8#http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
-橙子一台,https://ip3731198171.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/768410/live_1849890871_69368354.m3u8?
-橙子二台,https://ip3747975387.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/214875/live_457200741_74685781.m3u8
-橙子三台 ,https://ip3722557046.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/133179/live_1001126625_48904870.m3u8?
-橙子四台 ,https://ip3714420955.mobgslb.tbcache.com/d1--cn-gotcha09.bilivideo.com/live-bvc/743745/live_1755442628_48682447.m3u8
+
+
 
 
 【摔       角】,#genre#
