@@ -113,14 +113,6 @@
 {"key":"mtv_pc_悟空影视","name":"💦悟空影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/悟空影视.json"},
 {"key":"mtv_zh_暖光影视","name":"💦暖光影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"mtv_zh_刺猬影视","name":"💦刺猬影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"}
-
-
-
-
-
-{"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
-{"key":"18","name":"🔞🈲分割线——————","type":0,"api":""},
-{"key":"12","name":"🔞🈲分割线——————","type":0,"api":""},
 {
 			"key": "小苹果",
 			"name": "[默认]防尬",
@@ -616,7 +608,7 @@
 
 	"ijk": [{
 			"group": "软解码",
-			"options": [{
+			"options": {
 					"category": 4,
 					"name": "opensles",
 					"value": "0"
