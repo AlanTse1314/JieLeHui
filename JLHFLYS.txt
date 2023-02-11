@@ -421,6 +421,35 @@
 			"ext": "http://52bsj.vip:81/api/v3/file/get/58993/Alist.json?sign=u1LstZcmJ3RwCSrwfF1XeIejOUCRQHQSqsNhH-9mUxw%3D%3A0",
 			"jar":"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"
 		},
+{
+      "key": "drpy_js_猫了个咪",
+      "name": "猫了个咪[DRPY]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/ztv/master/lib/drpy.min.js",
+      "ext": "https://gitcode.net/oidmav/dr_py/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
+    },
+
+
+{"key": "*AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key":"pwd_袜子","name":"袜子","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
+{
+            "key": "csp_xb_国产传媒",
+            "name": "国产传媒",
+            "type": 3,
+            "api": "csp_XBiubiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/gccmxxx.json"
+        },
+{"key": "csp_XBiu中文无码",
+  "name": "中文无码",
+  "type": 3,
+  "api": "csp_XBiubiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/zwwmxxx.json"},
 		{
             "key" : "drpy_js_喵了个咪",
             "name" : "🔞喵了个咪[请使用365解析]",
@@ -428,8 +457,69 @@
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
         },
-		
+{
+      "key": "51smt4.xyz",
+      "name": "51sm",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },	
+{"key":"速","name":"哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
+{"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{
+      "key": "cjmygzy.com",
+      "name": "小美眉",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+ {
+      "key": "*饮水机",
+      "name": "*饮水机",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
+      "key": "*奶插",
+      "name": "*奶插",
+      "type": 1,
+      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "*大MM",
+      "name": "*大MM",
+      "type": 0,
+      "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "*9号资源",
+      "name": "*9号资源",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{ "key": "(18+)S猫资源", "name": "(18+)S猫资源", "type": 0, "api": "https://api.maozyapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{ "key": "(18+)SS资源", "name": "(18+)SS资源", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{
+      "key": "*玖玖",
+      "name": "玖玖",
+      "type": 0,
+      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
+    },
+{
       "key": "18AV",
       "name": "🔞18AV",
       "type": 3,
